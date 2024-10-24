@@ -14,7 +14,7 @@ export default function Projects() {
                         My Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        The Go Web App Project that showcase my DevOps and Cloud experiences. This project include process of development to deployment of application on EKS cluster. In this project I have used tools like Git, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Helm, Terraform, SonarQube, Trivy, Zabbix, and CloudWatch.
+                        These are my recent works that shows my previos experience and expertise in DevOps and Cloud.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
