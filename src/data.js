@@ -10,12 +10,12 @@ export const projects = [
         link: "https://github.com/Uj5Ghare/Go-Web-App",
     },
     {
-        title: "Argo Rollouts",
+        title: "ArgoCD-Canary-Deployment",
         subtitle: "GitOps",
         description:
-            "The Argo Rollouts project that showcase my experience with GitOps tools and practices. In this project I have used canary deployment stratagy to deploy an open-source application on ArgoCD. Tools I used for this project Git, GitHub Actions, Kubernetes, ArgoCD",
-        image: "./project-2.gif",
-        link: "https://github.com/Uj5Ghare/Argo-Rollouts",
+            "The ArgoCD-Canary-Deployment project that showcase my experience with GitOps tools and practices. In this project I have used canary deployment stratagy to deploy an open-source application on ArgoCD. Tools I used for this project Git, GitHub Actions, Kubernetes, ArgoCD",
+        image: "https://github.com/Uj5Ghare/ArgoCD-Canary-Deployment/blob/main/images/demo.png",
+        link: "https://github.com/Uj5Ghare/ArgoCD-Canary-Deployment",
     },
 ];
 
