@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React-Portfolio
+A simple portfolio page built with ReactJS.
+
+![portfolio](./public/portfolio.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
