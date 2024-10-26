@@ -14,7 +14,7 @@ export default function Projects() {
                         My Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        These are my recent works that shows my previos experience and expertise in DevOps and Cloud.
+                        These are some of my recent works that shows my previous experiences and expertise in DevOps and Cloud.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
@@ -25,7 +25,7 @@ export default function Projects() {
                             className="sm:w-1/2 w-100 p-4">
                             <div className="flex relative">
                                 <img
-                                    alt="gallery"
+                                    alt="Projects"
                                     className="absolute inset-0 w-full h-full object-cover object-center"
                                     src={project.image}
                                 />

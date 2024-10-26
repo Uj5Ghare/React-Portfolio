@@ -2,7 +2,7 @@
 
 export const projects = [
     {
-        title: "Go Web App",
+        title: "Go-Web-App",
         subtitle: "DevOps",
         description:
             "The Go Web App Project that showcase my DevOps and Cloud experiences. This project include process of development to deployment of application on EKS cluster. In this project I have used tools like Git, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Helm, Terraform, SonarQube, Trivy, Zabbix, and CloudWatch.",
@@ -30,4 +30,19 @@ export const skills = [
     "Trivy",
     "AWS",
     "Zabbix",
+];
+
+export const certificates = [
+    {
+        image: "https://th.bing.com/th/id/OIP.E222LU0m5bGifu_yrp32xwAAAA?w=270&h=74&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+        name: "TCS iON Communication Skills",
+        company: "TCS",
+        quote: "Communication Skills",
+    },
+    {
+        image: "https://th.bing.com/th/id/OIP.E222LU0m5bGifu_yrp32xwAAAA?w=270&h=74&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+        name: "TCS iON Young Proffessional",
+        company: "TCS",
+        quote: "Leadership & Critical Thinking",
+    },
 ];

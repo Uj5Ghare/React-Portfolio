@@ -9,10 +9,10 @@ export default function About() {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Ujwal.
-                        <br className="hidden lg:inline-block" />I love to automate manual processes.
+                        <br className="hidden lg:inline-block" />I love to automate things.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I am a DevOps Engineer with 8 months of experience in DevOps and Cloud. 
+                        I am a Associate DevOps Engineer with less than 1 year of experience in DevOps and Cloud. 
                     </p>
                     <div className="flex justify-center">
                         <a
