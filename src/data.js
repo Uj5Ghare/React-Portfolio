@@ -45,4 +45,16 @@ export const certificates = [
         company: "TCS",
         quote: "Leadership & Critical Thinking",
     },
+    {
+        image: "https://th.bing.com/th?id=OIP.5nuWt_I_31U3NqNsNL_KEwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+        name: "Linux Foundation Certified Sys Admin",
+        company: "KodeKloud",
+        quote: "Linux",
+    },
+    {
+        image: "https://th.bing.com/th?id=OIP.5nuWt_I_31U3NqNsNL_KEwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+        name: "Terraform Associate Certification",
+        company: "KodeKloud",
+        quote: "Terraform, IAC",
+    },
 ];
